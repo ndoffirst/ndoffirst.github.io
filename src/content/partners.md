@@ -26,4 +26,26 @@ Interested Teams can apply [here](https://forms.gle/FbY53eHkXnetggnT9) after rev
 
 ## Current Partner Teams
 
-TODO
+### Gold
+
+FTC 11770 - Curiosity- Gold
+FRC 2977 - Sir Lancer Bots - Gold
+
+### Silver
+
+FTC 16008 - Armored Artemises - Silver
+FRC 111 & 112 - WildStang & Plus One - Silver
+FRC 5123 - Mechadogs - Silver
+FRC 6637 - BetaWolves - Silver
+
+### Bronze
+
+FLL 57674 - Bronze
+FRC 245 - Adambots - Bronze
+FTC 3540 - Random Nuts - Bronze
+FRC 4039 - MakeShift Robotics
+FRC 4201 - The Vitruvian Bots - Bronze
+FRC 5171 - Deus Ex Machina - Bronze
+FRC 5587 - Titan Robotics - Bronze
+FRC 7466 - Cymurghs - Bronze
+FRC 8177 - Vector - Bronze

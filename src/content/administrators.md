@@ -20,7 +20,7 @@ Hiya! I'm Raven! I am a member of FRC team 9180, "Ursa Major Robotics." I am one
 
 ## Remy/Reggie - FRC 112 - ADHD, SCD - He/They/Xe/Ey
 
-Bio coming soon!
+Heyo! I'm Remy from FRC 112 "Plus One", a sister team to FRC 111 "WildStang". I'm currently involved in both software and strategy, and I am planning to major in Computer Science. I know JavaScript, C/C++, and am currently learning CSS. I have been an NDoF admin since June 11th, 2023, and am currently working on merchandise designs and making sure everyone in the discord is safe.
 
 ## Tyler - FRC 247 - ADHD - He/Him
 

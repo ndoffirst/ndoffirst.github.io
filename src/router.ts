@@ -11,6 +11,8 @@ import Representatives from './pages/Representatives.vue';
 import Retirees from './pages/Retirees.vue';
 import Advisors from './pages/Advisors.vue';
 
+const DISCORD_JOIN_URL = 'https://discord.gg/uPtw9KQM8f';
+
 const routes: RouteRecordRaw[] = [
   {
     path: '/',
@@ -56,6 +58,15 @@ const routes: RouteRecordRaw[] = [
     path: '/community/advisors',
     name: 'Advisors',
     component: Advisors,
+  },
+  {
+    path: '/discord',
+    name: 'Discord',
+    beforeEnter() {
+      window.location.replace(DISCORD_JOIN_URL);
+      return false;
+    },
+    component: Home,
   },
 ];
 

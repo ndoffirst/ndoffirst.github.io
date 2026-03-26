@@ -10,6 +10,7 @@ import Partners from './pages/Partners.vue';
 import Representatives from './pages/Representatives.vue';
 import Retirees from './pages/Retirees.vue';
 import Advisors from './pages/Advisors.vue';
+import NotFound from './pages/NotFound.vue';
 
 const DISCORD_JOIN_URL = 'https://discord.gg/uPtw9KQM8f';
 
@@ -67,6 +68,11 @@ const routes: RouteRecordRaw[] = [
       return false;
     },
     component: Home,
+  },
+  {
+    path: '/:pathMatch(.*)*',
+    name: 'NotFound',
+    component: NotFound,
   },
 ];
 

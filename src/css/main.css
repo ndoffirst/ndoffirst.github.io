@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "@toolwind/anchors";
+
+@theme {
+  --color-primary: #3CBBB1;
+  --color-brand: #8B1E3F;
+  --color-text: whitesmoke;
+  --font-sans: "Lato", sans-serif;
+  --font-heading: "Prompt", sans-serif;
+}
+
+.fas::before,
+.far::before,
+.fab::before,
+.fa-solid::before,
+.fa-regular::before,
+.fa-brands::before,
+.fa::before {
+  content: var(--fa);
+}
